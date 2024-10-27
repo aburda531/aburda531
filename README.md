@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Andrew
+## Hi there I'm Andrew 👋 
 ![Codewars](https://github.r2v.ch/codewars?user=aburda&stroke=green)
 <!--
 **aburda531/aburda531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
