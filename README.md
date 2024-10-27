@@ -1,7 +1,4 @@
-
-![Codewars](https://github.r2v.ch/codewars?user=aburda&stroke=green)
-<img src="https://raw.githubusercontent.com/aburda531/aburda531/output/snake.svg" alt="Snake animation" />
-<p align="left">Hello there! 👋 I'm Andrew, a Data Analyst and current MSBA student at UCSD. Welcome to my GitHub! Here, you'll find projects that showcase my passion for product🚀, data science 📊, and AI 🤖. Let's build something amazing together! 😊</p>
+<p align="center">Hello there! 👋 I'm Andrew, a Data Analyst and current MSBA student at UCSD. Welcome to my GitHub! Here, you'll find projects that showcase my passion for product🚀, data science 📊, and AI 🤖. Let's build something amazing together! 😊</p>
 
 ###
 
@@ -41,8 +38,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aburda531&radius=16&theme=chartreuse-dark&area=true&order=5" height="270" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/aburda531/aburda531/output/snake.svg" alt="Snake animation" />
-
-###
