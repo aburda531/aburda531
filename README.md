@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 32px;">
+<p align="center" style="font-size: 48px;">
   Hello there! 👋 I'm Andrew, a Data Analyst💎 and current MSBA student at UC San Diego🔱. 
   Welcome to my GitHub! Here, you'll find projects that showcase my passion for product🚀, 
   data science 📊, and AI 🤖. Let's build something amazing together! 😊
@@ -12,19 +12,7 @@
 
 ###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="25" alt="postgresql logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="25" alt="anaconda logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="25" alt="jupyter logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
-</div>
 
 ###
 
