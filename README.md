@@ -1,6 +1,8 @@
-<p align="center">Hello there! 👋 I'm Andrew, a Data Analyst💎 and current MSBA student at UC San Diego🔱. Welcome to my GitHub! Here, you'll find projects that showcase my passion for product🚀, data science 📊, and AI 🤖. Let's build something amazing together! 😊</p>
-
-###
+<p align="center" style="font-size: 32px;">
+  Hello there! 👋 I'm Andrew, a Data Analyst💎 and current MSBA student at UC San Diego🔱. 
+  Welcome to my GitHub! Here, you'll find projects that showcase my passion for product🚀, 
+  data science 📊, and AI 🤖. Let's build something amazing together! 😊
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andrew-burda/" target="_blank">
